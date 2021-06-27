@@ -3,6 +3,9 @@ To put my newly acquired HTML and CSS coding skills to practice, I created a por
 
 ## Link to Deployed Website:
 https://troyat88.github.io/Developer-Portfolio/#contact-info
+
+---
+
 ![Screenshot of Website](/assets/images/screenshot.jpg) 
 
 
