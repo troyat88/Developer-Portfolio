@@ -10,15 +10,15 @@ https://troyat88.github.io/Developer-Portfolio/#contact-info
 
 
 ## Required Features: 
-About Me, Projects and Contact 
-Navigation Bar with links to corresponding sections
-Hover effect on images in “Projects” section
-Images in “Projects” section function as links to deployed projects 
-Site is responsive to changes in screen size 
+1. About Me, Projects and Contact 
+2. Navigation Bar with links to corresponding sections
+3. Hover effect on images in “Projects” section
+4. Images in “Projects” section function as links to deployed projects 
+5. Site is responsive to changes in screen size 
 
 ## Notes: 
-The links to projects will take you to my Github page, since I have not deployed any of the major projects
-I cannot get the site to display correctly on mobile. Something I will be working to fix and solidify as a coding skill
+1. The links to projects will take you to my Github page, since I have not deployed any of the major projects
+
 
 
 
